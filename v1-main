@@ -1,4 +1,4 @@
 loadstring(game:HttpGet("https://pastebin.com/raw/BJjhYhV0"))()
-game:GetService("Players").hahayoudie_d.CharacterAdded:Connect(function()
-  game.Players.hahayoudie_d.Character.Humanoid.DisplayName = "[👑] ayebullet"
+if PremUser.CharacterAdded then
+  game.Players.hahayoudie_d.Character.Humanoid.DisplayName = "[👑]"
 end)
